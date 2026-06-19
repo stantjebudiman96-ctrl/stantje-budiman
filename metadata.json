@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Administrasi Sekolah",
+  "description": "Sistem informasi manajemen administrasi sekolah terpadu untuk mengelola siswa, guru, kelas, keuangan SPP, rapor hasil belajar, dan pembuatan surat administrasi resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
